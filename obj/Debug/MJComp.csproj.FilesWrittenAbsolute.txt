@@ -1,0 +1,7 @@
+E:\Mahjong-bot\MJComp\obj\Debug\.NETFramework,Version=v4.8.AssemblyAttribute.cs
+E:\Mahjong-bot\MJComp\bin\Debug\MJComp.exe.config
+E:\Mahjong-bot\MJComp\bin\Debug\MJComp.pdb
+E:\Mahjong-bot\MJComp\bin\Debug\MJComp.exe
+E:\Mahjong-bot\MJComp\obj\Debug\MJComp.exe
+E:\Mahjong-bot\MJComp\obj\Debug\MJComp.pdb
+E:\Mahjong-bot\MJComp\bin\Debug\Newtonsoft.Json.dll
